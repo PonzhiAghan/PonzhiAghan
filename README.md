@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PonzhiAghan
-- 👀 I’m interested in coding for data analysis 
-- 🌱 I’m currently learning
-- currently learning python (scientific computing) at freeCodeCamp
+- 👀 I’m interested in coding for scientific computing (quantum mechanics) and data analysis 
 - 💞️ I’m looking to collaborate on helping others learn to code
 - 📫 How to reach me igwaky@gmail.com
 
