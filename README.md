@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PonzhiAghan
-- 👀 I’m interested in coding for scientific computing (quantum mechanics) and data analysis 
-- 💞️ I’m looking to collaborate on helping others learn to code
+- 👋 Hi, I’m Nanyak.
+- 👀 I’m interested in coding for scientific computing (quantum mechanics) and data analysis.
+- I am working on Machine Learning at the moment. 
+- 💞️ I’m looking to collaborate on helping others learn to code.
 - 📫 How to reach me igwaky@gmail.com
 
 <!---
